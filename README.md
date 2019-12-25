@@ -1,13 +1,13 @@
-# Aurora Reader for Mac (Beta)
+# Aurora Reader for Mac
 Minimum OS requirement: macOS 10.15 Catalina
 
-[Download app for macOS](https://github.com/JunyuKuang/AuroraReaderForMac/releases/tag/v3.2)
+[Mac App Store](https://apps.apple.com/app/aurora-reader/id1482754298?mt=12)
 
-[Download app for iOS](https://apps.apple.com/app/id1268667713)
+[iOS App Store](https://apps.apple.com/app/id1268667713)
 
-# 极光阅读 for Mac（测试版）
+# 极光阅读 for Mac
 最低系统要求：macOS 10.15 Catalina
 
-[下载 macOS 版本](https://github.com/JunyuKuang/AuroraReaderForMac/releases/tag/v3.2)
+[Mac App Store](https://apps.apple.com/app/aurora-reader/id1482754298?mt=12)
 
-[下载 iOS 版本](https://apps.apple.com/app/id1268667713)
+[iOS App Store](https://apps.apple.com/app/id1268667713)
